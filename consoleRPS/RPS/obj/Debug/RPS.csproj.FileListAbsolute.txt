@@ -1,0 +1,11 @@
+C:\Users\Sophia\source\repos\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\Sophia\source\repos\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\Sophia\source\repos\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.csproj.AssemblyReference.cache
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.pdb
+C:\Users\Sophia\source\repos\RPS\RPS\bin\Debug\RPS.exe.manifest
+C:\Users\Sophia\source\repos\RPS\RPS\bin\Debug\RPS.application
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.exe.manifest
+C:\Users\Sophia\source\repos\RPS\RPS\obj\Debug\RPS.application
