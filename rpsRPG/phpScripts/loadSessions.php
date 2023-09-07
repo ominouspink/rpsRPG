@@ -1,4 +1,13 @@
 <?php
+//current max sessions, easy way to keep the server running okay with this unoptimised php script. (will implement at some point)
+$maxSessions = 10;
+
+
+
+//check if you are currently in a session
+// SQL query
+$sqlControl = "SELECT defender, attacker FROM `sessions`";
+$controlResult = $mysqliRPS->query($sqlControl);
 
 //search for a free defender spot
 $defendSESH = 'SELECT * FROM `sessions` WHERE `defender` = "" AND `attacker` != "";';
@@ -11,7 +20,7 @@ $alldefending = $defend;
 
 //select one collection of player data out of the current defender array
 $defend = $defend[0];
-echo "   name of the attacker: " . $defend[2];
+
 
 
 //search for a free attacker spot
@@ -24,7 +33,7 @@ $allAttacking = $attack;
 
 //select the playerArray out of the current player arrays
 $attack = $attack[0];
-echo " |  name of the defender: " . $attack[1];
+
 
 
 
@@ -41,6 +50,9 @@ $defendingPlayer = $defendingPlayer[0];
 // max player health
 $defMaxHP = $defendingPlayer[12];
 
+// player health
+$defHP = $defendingPlayer[13];
+
 // current player strength
 $defStrength = $defendingPlayer[14];
 
@@ -56,6 +68,9 @@ $attackingPlayer = $attackingPlayer[0];
 // max player health
 $atMaxHP = $attackingPlayer[12];
 
+// current player health
+$atHP = $attackingPlayer[13];
+
 // current player strength
 $atStrength = $attackingPlayer[14];
 
@@ -66,8 +81,4 @@ if($attack[1] == ""){
 }
 if($defend[2] == ""){
     $defend[2] = "ATTACKER";
-}
-
-function wuss(){
-    
 }

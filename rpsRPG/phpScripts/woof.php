@@ -1,23 +1,42 @@
 <?php
 
 //query for current playerData
-$thisPlayers = "SELECT * FROM playerData WHERE `username` = '" . $user . "'";
+$thisPlayers = "SELECT * FROM playerData WHERE `username` = '" . $attackerUsername . "'";
 
 // //fetch of current player
-$attackingPlayer =  mysqli_fetch_all(mysqli_query($mysqliWRATH, $thisPlayers));
+$seshAtPlayer =  mysqli_fetch_all(mysqli_query($mysqliWRATH, $thisPlayers));
 
 
 // //select the playerArray out of the current player arrays
-$attackingPlayer = $attackingPlayer[0];
+$seshAtPlayer = $seshAtPlayer[0];
 
 
 // max player health
-$attackingMaxHP = $attackingPlayer[12];
+$seshAtMaxHP = $seshAtPlayer[12];
 
 // current player health
-$attackingCurrentHP = $attackingPlayer[13];
+$seshAtHP = $seshAtPlayer[13];
 
 // current player strength
-$attackingStrength = $attackingPlayer[14];
+$seshAtStrength = $seshAtPlayer[14];
 
+function atDone() {
+    global $mysqliRPS;
+global $isAttacker;
+global $bothDone;
+global $attackerUsername;
+
+    if($isAttacker == true && $bothDone == "no"){
+        $done=   "UPDATE `sessions` SET `atDone` = '1' WHERE `attacker` = '" .$attackerUsername."';";
+        $doneProcess = mysqli_query($mysqliRPS, $done);
+       }}
+function atUndone() {
+    global $mysqliRPS;
+    global $isAttacker;
+    global $bothDone;
+    global $attackerUsername;
+if($isAttacker == true && $bothDone == "yes"){
+    $undone=   "UPDATE `sessions` SET `atDone` = '0' WHERE `attacker` = '" .$attackerUsername."';";
+    $undoneProcess =  mysqli_query($mysqliRPS, $undone);
+   }}
 ?>

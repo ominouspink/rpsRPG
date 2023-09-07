@@ -1,18 +1,404 @@
-[12-Aug-2023 10:48:42 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:48:42 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:53:19 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:53:19 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:53:51 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:53:51 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:54:52 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:54:52 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:54:52 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
-[12-Aug-2023 10:54:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
-[12-Aug-2023 10:54:58 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:54:58 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:54:58 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
-[12-Aug-2023 10:54:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
-[12-Aug-2023 10:55:44 America/New_York] PHP Warning:  include(important/auth.php): Failed to open stream: No such file or directory in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:55:44 America/New_York] PHP Warning:  include(): Failed opening 'important/auth.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 4
-[12-Aug-2023 10:55:44 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
-[12-Aug-2023 10:55:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 5
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 18
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 19
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 38
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 44
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 47
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 50
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 53
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 78
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:31 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 18
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 19
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 38
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 44
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 47
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 50
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 53
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 78
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:34 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 18
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 19
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 38
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 44
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 47
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 50
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 53
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 78
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:37 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:20:48 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 08:21:00 America/New_York] PHP Warning:  Uninitialized string offset 1 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 67
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[04-Sep-2023 10:25:28 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 05:21:27 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 06:07:21 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 06:07:39 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 07:13:42 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 09:11:24 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[05-Sep-2023 10:47:17 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[06-Sep-2023 07:08:30 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 04:44:30 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:29:35 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:29:43 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:30:17 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:33:34 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:33:50 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:35:48 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:36:00 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:38:41 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:38:55 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:50:50 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:53:53 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:54:51 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:59:28 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 05:59:29 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:02:42 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:02:46 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:04:17 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:06:00 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 06:10:21 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 07:37:44 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 12:09:05 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 22
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 23
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 35
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 36
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 42
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 48
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 51
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 54
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 57
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 60
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 66
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 69
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 72
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 75
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 79
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/phpScripts/loadSessions.php on line 82
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  Undefined array key 0 in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
+[07-Sep-2023 13:00:24 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ominous/public_html/sophia/sWrath/experiment/rpsRPG/index.php on line 66
