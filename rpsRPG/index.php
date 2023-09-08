@@ -108,12 +108,12 @@ foreach ($alldefending[0] as $element) {
         </div>
         <div class="div3"><img src="media/rps.png" class="image"> </div>
         <div class="div4" id="meow">
-            <center><b class="player">START AS ATTACKER</b>
-                <center><b class="opponent" id="defenderTitleID">[<?= $attack[1] ?>]</b><br>
-                    <p id="defenderID">{strength: <?= $atStrength ?>}<br>
-                        {health: <?= $atMaxHP ?>}
+            <!-- <center><b class="player">START AS ATTACKER</b>
+                <center><b class="opponent" id="defenderTitleID">[<= $attack[1] ?>]</b><br>
+                    <p id="defenderID">{strength: <= $atStrength ?>}<br>
+                        {health: <= $atMaxHP ?>}
                 </center><br> </p>
-                <a href="index.php?data=<?php echo urlencode($attack[1]); ?>&mood=attacking">START</a>
+                <a href="index.php?data=<php echo urlencode($attack[1]); ?>&mood=attacking">START</a> -->
         </div>
         <div class="div5" id="woof">
             <center><b class="player">START AS DEFENDER</b>
